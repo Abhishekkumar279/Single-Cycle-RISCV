@@ -224,7 +224,3 @@ This project demonstrates practical understanding of:
 - Register file and memory implementation.
 - Clock, reset, and synchronous sequential logic.
 - Functional simulation and waveform-based debugging.
-
-## License
-
-The Verilog source files contain Apache License 2.0 notices. Refer to the applicable license terms when using or redistributing the original source code.
